@@ -1,0 +1,16 @@
+{
+  "name": "bss-retag",
+  "version": "0.1.0",
+  "description": "Tag converter export script for Bootstrap Studio",
+  "author": "Alex Wiser",
+  "license": "MIT",
+  "keywords": [
+    "html",
+    "export"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "posthtml": "^0.15.1",
+    "posthtml-retag": "^0.1.0"
+  }
+}
